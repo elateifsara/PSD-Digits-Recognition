@@ -5,10 +5,10 @@ Please find the MNIST data, which the model was trained on, on [kaggle](https://
 We trained the MNIST dataset on both CNN and a Fully Connected Network.
 
 ## The CNN
-![CNN](Handwritten_Digits_Recognition CNN.jpg)
+<img src="Handwritten_Digits_Recognition CNN.jpg" alt="CNN">
 
 ## The Multi Layer Perceptron 
-![MLP](Handwritten_Digits_Recognition MLP.jpg)
+<img src="Handwritten_Digits_Recognition MLP.jpg" alt="MLP">
 
 ## Results on the test set  
 
