@@ -14,8 +14,8 @@ We trained the MNIST dataset on both CNN and a Fully Connected Network.
 
 Using:
 
-    **CNN** : 0.99157
-    **Fully Connected Network** : 0.96414
+    CNN : 0.99157
+    Fully Connected Network : 0.96414
 
 *Authors of this work are :*  
 
